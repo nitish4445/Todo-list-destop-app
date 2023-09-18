@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+div{
+    background-color: #0cdccbca;
+    padding: 50px;
+    height: 600px;
+    border-radius: 10px;
+}
+#text{
+    width: 250px;
+    height: 35px;
+    border: none;
+}
+#btn{
+    width: 90px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 18px;
+}
+.deletBtn{
+    margin-left: 5px;
+    font-size: 18px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+li{
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 40px;
+}
